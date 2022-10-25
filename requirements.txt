@@ -1,0 +1,4 @@
+• As a web framework - Flask
+• As a database - Postgresql
+• Moralis -> https://moralis.io/ in order to get an information
+about NFT

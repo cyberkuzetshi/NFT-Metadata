@@ -4,3 +4,5 @@ FT Aggregator
 • Web page contain an input field and button <Search>
 • When User provides an address of an NFT and presses the button, it show full information about that NFT and store all the data inside the Postgres Database
   
+Marketplace: https://solana.com/ru/ecosystem
+  
